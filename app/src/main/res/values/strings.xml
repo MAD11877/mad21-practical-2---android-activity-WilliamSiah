@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAD_Exercise2</string>
+    <string name="madpractical">MADPractical</string>
+    <string name="message">Message</string>
+    <string name="follow">Follow</string>
+    <string name="placeholdertext">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="logobackground">logoBackground</string>
+    <string name="logoforeground">logoForeground</string>
+    <string name="mainlogo">mainLogo</string>
+</resources>
